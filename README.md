@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 ## Introduction
 
 Greetings! Welcome to my GitHub profile. I'm passionate about programming and constantly striving to enhance my skills in the field of software development. Python and web development are my primary interests, but I'm always open to exploring new domains and tackling exciting challenges. I have a keen interest in emerging technologies and stay up-to-date with the latest advancements in the tech industry.
