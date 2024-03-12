@@ -8,9 +8,8 @@ I am an enthusiastic learner with a deep-rooted curiosity for programming. With 
 
 ## Skills and Expertise
 
+- **Web Development**: I have a solid understanding of the MERN (MongoDB, Express.js, React.js, Node.js) stack. I enjoy building responsive and user-friendly websites, and I am experienced in working with popular frameworks like Django and Flask. Additionally, I have proficiency in MySQL and Firebase, further enriching my skill set in backend development.
 - **Python**: I am proficient in Python and utilize its versatile ecosystem for developing efficient and robust applications. I strive to write clean and readable code, adhering to best practices and industry standards.
-
-- **Web Development**: I have a solid understanding of web technologies such as HTML, CSS, and JavaScript. I enjoy building responsive and user-friendly websites, and I am experienced in working with popular frameworks like Django and Flask.
 
 - **Problem Solving**: I thrive on challenges and love to solve complex problems using logical and analytical thinking. I enjoy breaking down problems into manageable components and designing effective solutions.
 
