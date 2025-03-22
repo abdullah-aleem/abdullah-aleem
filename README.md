@@ -1,23 +1,19 @@
 ## Introduction
 
-Greetings! Welcome to my GitHub profile. I'm passionate about programming and constantly striving to enhance my skills in the field of software development. Python and web development are my primary interests, but I'm always open to exploring new domains and tackling exciting challenges. I have a keen interest in emerging technologies and stay up-to-date with the latest advancements in the tech industry.
+Greetings! Welcome to my GitHub profile. I'm passionate about programming and constantly striving to enhance my skills in the field of software development. With a background in Computer Science from NUST, I specialize in full-stack web development, mobile app development, and AI-driven solutions. My expertise lies in leveraging modern frameworks and technologies to build scalable and efficient applications.
 
 ## About Me
 
-I am an enthusiastic learner with a deep-rooted curiosity for programming. With a strong foundation in Python, I find joy in developing web applications and creating dynamic websites. Through my projects, I aim to showcase my proficiency in leveraging Python and web technologies to build innovative solutions. I believe in continuous learning and growth, always seeking opportunities to expand my knowledge and skill set.
+I am an enthusiastic learner with hands-on experience in developing software solutions. I have worked extensively with various programming languages, including JavaScript, TypeScript, Python, C#, and C++. My expertise spans full-stack web development, backend engineering, and database management. Additionally, I have explored machine learning and artificial intelligence with TensorFlow and PyTorch. My goal is to continuously grow as a developer by tackling challenging projects and expanding my technical knowledge.
 
 ## Skills and Expertise
 
-- **Web Development**: I have a solid understanding of the MERN (MongoDB, Express.js, React.js, Node.js) stack. I enjoy building responsive and user-friendly websites, and I am experienced in working with popular frameworks like Django and Flask. Additionally, I have proficiency in MySQL and Firebase, further enriching my skill set in backend development.
-- **Python**: I am proficient in Python and utilize its versatile ecosystem for developing efficient and robust applications. I strive to write clean and readable code, adhering to best practices and industry standards.
-
-- **Problem Solving**: I thrive on challenges and love to solve complex problems using logical and analytical thinking. I enjoy breaking down problems into manageable components and designing effective solutions.
-
-- **Adaptability**: I embrace new technologies and enjoy exploring different fields within the realm of programming. I am open to learning and working with diverse tools and frameworks, as I believe in the importance of staying adaptable in a rapidly evolving industry.
-
-- **Version Control**: Proficient in using Git and GitHub for version control and collaboration. I understand the importance of maintaining a well-structured and documented codebase.
-
-
+- **Web Development**: Proficient in the MERN stack (MongoDB, Express.js, React.js, Node.js) with additional experience in Redux and Nest.js.
+- **Backend & Databases**: Skilled in MySQL, MongoDB, PostgreSQL, and Firestore for scalable data management.
+- **Programming Languages**: Experienced in JavaScript, TypeScript, Python, C#, C++, SQL, HTML, and CSS.
+- **Machine Learning & AI**: Familiar with TensorFlow, PyTorch, and Scikit-Learn for deep learning applications.
+- **Mobile Development**: Experienced in Flutter for building cross-platform mobile applications.
+- **Tools & Technologies**: Proficient in Git, Docker, Firebase, and Beautiful Soup for web scraping.
 
 ## Contact Me
 
